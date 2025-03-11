@@ -2,7 +2,7 @@
 The proposed Database Management System (DBMS) for legal case management stands out 
 as an invaluable tool by not only centralizing information but also significantly enhancing the 
 overall utility of the data. Its relational database structure not only facilitates seamless 
-integration and retrieval but also promotes data consistency and accuracy, reducing the 
+integration and retrieval but also promotes data consistency and accuracy, reducing the
 likelihood of discrepancies in legal records. 
  
 The interlinked tables provide a holistic view of case information, enabling legal teams to draw 
